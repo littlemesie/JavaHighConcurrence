@@ -1,11 +1,11 @@
-package cn.mesie.one01;
+package cn.mesie.one;
 
 /**
  * Created by 2019-04-02 00:10
- *
+ * 线程的创建和运行
  * @author: mesie
  */
-public class Main {
+public class Main01 {
     public static void main(String[] args) {
         // 创建一个执行10次的循环。在每次循环中创建一个Calculator 对象，
         // 一个Thread对象，这个Thread对象使用刚创建的Calculator对象作为构造器的参数，
