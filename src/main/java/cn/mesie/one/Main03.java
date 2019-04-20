@@ -1,5 +1,7 @@
 package cn.mesie.one;
 
+import cn.mesie.one.task.PrimeGenerator;
+
 import java.util.concurrent.TimeUnit;
 
 /**
